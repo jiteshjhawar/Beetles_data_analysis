@@ -13,7 +13,9 @@ This repository uses Git Large File Storage (LFS) for large files (>100 MB).
 
 ```bash
 git lfs install
-2. Clone the Repository
+```
+
+### 2. Clone the Repository
 
 git clone https://github.com/jiteshjhawar/Beetles_data_analysis.git
 cd Beetles_data_analysis
