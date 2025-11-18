@@ -94,8 +94,3 @@ If contributing, please install Git LFS first
 
 🤝 Contributing
 Pull requests and issues are welcome!
-
-yaml
-Copy code
-
------------------- COPY TILL HERE ------------------
