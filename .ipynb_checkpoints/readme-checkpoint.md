@@ -1,5 +1,12 @@
 # Beetles Data Analysis
 
+## 📖 Reference
+
+J. Jhawar, V. Guttal*, and S. Thutupalli*, **Stochastic dynamics of order and disorder in milling whirligig beetles**, *Physical Review Research* (2025). (*Accepted*)
+
+\*These authors contributed equally as senior authors.
+
+
 ## Overview
 This repository contains code, data, and analysis pipelines for the project.  
 Some large binary files (movies, data arrays, etc.) are tracked using **Git LFS**.
@@ -80,8 +87,9 @@ statsmodels
 📁 Repository Structure
 
 ```
-repo/
+PRR_codes_data_lfs/
 │── data/                 # Large data files (LFS tracked)
+   │── model_data 
 │── movies/               # Movie files (LFS tracked)
 │── codes/                # Python analysis scripts
 │   ├── functions.py

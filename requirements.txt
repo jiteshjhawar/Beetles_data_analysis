@@ -8,7 +8,6 @@ numba
 statsmodels
 pickle5
 jupyter
-
 scikit-learn
 seaborn
 opencv-python
