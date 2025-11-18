@@ -79,6 +79,7 @@ statsmodels
 
 📁 Repository Structure
 
+```
 repo/
 │── data/                 # Large data files (LFS tracked)
 │── movies/               # Movie files (LFS tracked)
@@ -90,6 +91,7 @@ repo/
 │── requirements.txt
 │── README.md
 📝 Notes
+```
 
 ▶️ Running the Code
 
