@@ -1,3 +1,11 @@
+# License
+
+All code, data, and supplementary materials in this repository are released under the MIT License. You are free to use, modify, and distribute the materials, including for commercial purposes, as long as the copyright notice and this permission notice are included in all copies or substantial portions of the repository.
+
+For full license details, see the LICENSE file. 
+
+This licensing applies to both the Python analysis code and the datasets provided in this repository.
+
 # Beetles Data Analysis
 
 ## 📖 Reference
